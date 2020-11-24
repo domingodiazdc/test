@@ -737,9 +737,48 @@ a {
 }
 .cid-s48vaXqeL6 .mbr-section-title {
   text-align: left;
+  color: #65c6d4;
 }
 .cid-s48vaXqeL6 .mbr-section-subtitle {
   text-align: left;
+}
+.cid-shiqGKBFgi {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #c7f2c6;
+}
+.cid-shiqGKBFgi .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-shiqGKBFgi .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-shiqGKBFgi .bg-tiktok {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-shiqGKBFgi .bg-tiktok:hover {
+  background: #000000;
+}
+.cid-shiqGKBFgi .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-shiqGKBFgi [class^="socicon-"]:before,
+.cid-shiqGKBFgi [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
+.cid-shiqGKBFgi .mbr-section-title,
+.cid-shiqGKBFgi .social-list {
+  color: #000000;
 }
 .cid-shi8TcrnW0 {
   padding-top: 6rem;
